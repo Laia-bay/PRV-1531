@@ -1,6 +1,6 @@
  ## PRV-1531
 
-This project is based on materials by Xavier Serra and Błażej Kotowski for the course **Audio Systems and Coding** at Universitat Pompeu Fabra.
+This project is based on materials by Xavier Serra and Błażej Kotowski for the course **Audio Systems and Coding** at Universitat Pompeu Fabra. https://github.com/xserra/audio-coding-materials
 
 The functions are based on those used in the lab notebooks. I modified them while I was a student in the course to better suit the project’s needs.
 
