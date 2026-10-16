@@ -1,0 +1,9 @@
+matplotlib
+numpy
+scipy
+ipython
+pydub
+torch
+torchaudio
+torchinfo
+transformers
