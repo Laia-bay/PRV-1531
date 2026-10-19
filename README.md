@@ -14,6 +14,9 @@ To work with this notebook, install:
 In VS Code, install the **Python** and **Jupyter** extensions.
 
 
+## Cloning the repository
+Using git or Github desktop, clone this repository onto your computer.
+
 ## Set up a virtual environment
 
 The virtual environment keeps this project’s Python packages separate from other projects.
@@ -24,10 +27,15 @@ Run these commands in the project folder using PowerShell or the CMD:
 
 ```powershell
 py -3.12 -m venv .venv
-.\\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1
+```
+If Activate.ps1 gives an error, try:
+
+```powershell
+.\.venv\Scripts\activate.bat
 ```
 
-### Windows
+### Linux /MacOS
 
 Run these commands in the project folder:
 
